@@ -10,7 +10,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
+		"url": "https://github.com/devCadet1/nodeJS-challenges/blob/main/package.json"
 	}
 	
 }
